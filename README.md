@@ -4,7 +4,7 @@ Novice introduction to high performance computing. This material was conceived a
 
 ## Material
 
-The material can be viewed [here](https://psteinb.github.io/hpc-in-a-day)!
+The material can be viewed [here](https://psteinb.github.io/hpc-in-a-day-pbs)!
 
 ## Audience
 
